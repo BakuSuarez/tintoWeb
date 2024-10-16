@@ -1,0 +1,11 @@
+{
+  "name": "tintoweb",
+  "version": "1.0.0",
+  "description": "proyecto persoal talento tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Suarez",
+  "license": "ISC"
+}
