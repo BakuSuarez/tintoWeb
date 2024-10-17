@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Johan Suarez",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakuSuarez/tintoWeb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BakuSuarez/tintoWeb/issues"
+  },
+  "homepage": "https://github.com/BakuSuarez/tintoWeb#readme"
 }
